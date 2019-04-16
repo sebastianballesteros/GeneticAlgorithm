@@ -1,5 +1,5 @@
 '''
-Sebastian Ballesteros - 40114697
+Sebastian Ballesteros 
 This is a genetic algorithm used applied on a population of 10 citiies, each with an x and y
 coordinate. The goal of the algorithm is to solve the famous travelling salesman problem.
 '''
